@@ -1,0 +1,19 @@
+{
+  "name": "capygame",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^4.4.5"
+  },
+  "dependencies": {
+    "howler": "^2.2.3",
+    "pixi-sdf-text": "^1.0.0",
+    "remove": "^0.1.5"
+  }
+}

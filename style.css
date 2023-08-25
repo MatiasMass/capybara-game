@@ -1,0 +1,19 @@
+*{
+  box-sizing: border-box;
+}
+
+html, body, canvas, div{
+  margin: 0;
+  padding: 0;
+}
+
+canvas{
+  display: block;
+}
+
+html{
+  background: url("./assets/background.jpeg") no-repeat center center;
+  background-size: cover;
+  height: 100vh;
+  width: 100%;
+}
